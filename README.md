@@ -2,8 +2,6 @@
 
 Native Linux mixer GUI and volume sync daemon for the **Audient EVO 8** USB audio interface. Replaces the official Windows/Mac mixer app using ALSA controls exposed by the `snd-usb-audio` kernel driver.
 
-![Screenshot](EVO-8-Mixer.png)
-
 ## Features
 
 - Vertical channel faders for MIC 1–4 preamp volume
